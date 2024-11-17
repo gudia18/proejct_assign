@@ -27,4 +27,17 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/contact-management-system.git
-cd contact-management-system
+cd contact_manager
+```
+### 2. Frontend
+    ```bash
+    npm i
+    ```
+### 2. Backend
+     ```bash
+     cd backend
+     npm i
+     node index.js 
+     ```
+
+    
